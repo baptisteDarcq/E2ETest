@@ -1,4 +1,4 @@
-package react.native.flow;
+package reactnativeflow.baptistedarcq;
 
 import android.os.Bundle;
 

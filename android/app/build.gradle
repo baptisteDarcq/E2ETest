@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId 'react.native.flow'
+        applicationId 'reactnativeflow.baptistedarcq'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

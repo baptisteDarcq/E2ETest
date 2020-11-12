@@ -1,4 +1,4 @@
-package react.native.flow.generated;
+package reactnativeflow.baptistedarcq.generated;
 
 import java.util.Arrays;
 import java.util.List;
